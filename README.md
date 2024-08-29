@@ -38,3 +38,6 @@
 4.1 在按下 Enter 键后，如果已经圈定了两个多边形，程序将停止允许进一步圈定，并计算面积比率。
 4.2 计算的面积比率会以消息框形式显示。
 
+![12f5b1b1231a4049775efddac5044fc](https://github.com/user-attachments/assets/bad561bd-63f6-4400-8678-5861f12b91fb)
+
+
