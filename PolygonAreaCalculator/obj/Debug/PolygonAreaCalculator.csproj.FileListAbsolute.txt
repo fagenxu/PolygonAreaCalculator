@@ -1,0 +1,10 @@
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.PolygonAreaCalculator.resources
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.Properties.Resources.resources
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.csproj.GenerateResource.cache
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\bin\Debug\PolygonAreaCalculator.exe.config
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\bin\Debug\PolygonAreaCalculator.exe
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\bin\Debug\PolygonAreaCalculator.pdb
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.exe
+C:\Users\Fagen_Xu\source\repos\PolygonAreaCalculator\PolygonAreaCalculator\obj\Debug\PolygonAreaCalculator.pdb
